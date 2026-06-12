@@ -1,0 +1,4 @@
+gradio
+trafilatura
+tiktoken
+markitdown[all]
